@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhant Singh Karki</h1>
 <h3 align="center">A passionate full-stack developer currently in Sydney 🌊 🌊</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
+<img align="right" alt="Coding" width="400" src="https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr84kb3drpx8378rbzk3f.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kid0733&label=Profile%20views&color=0e75b6&style=flat" alt="kid0733" /> </p>
